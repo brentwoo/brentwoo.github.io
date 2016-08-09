@@ -1,2 +1,3 @@
 name: Brent Woo, concert linguist
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
