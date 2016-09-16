@@ -83,3 +83,6 @@ a:hover { color: #a03c21 }
 a.more-link { color: white; font-weight: bold; font-size: 14px; font-family: Arial, Helvetica, sans-serif; padding: 3px 10px; background-color: #ff6600; border-radius: 5px; float: right; }
 
 a.more-link:hover { text-decoration: none; background-color: #666; border-radius: 0px; }
+
+
+.date { color: #bbc3c8; background: #292929; display: inline-block; font-family: 'Georgia', serif; font-style: italic; font-size: 18px; line-height: 22px; margin: 0 0 20px 18px; padding: 10px 12px 8px; position: absolute; bottom: -36px; }
