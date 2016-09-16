@@ -6,7 +6,8 @@ title: Brent Woo, concert linguist
 	<h1>Hi there, I'm Brent Woo!</h1>
 	<ul class="posts">
 	  {% for post in site.posts limit:3 %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <span class="date">{{ post.date | date_to_string }}</span><br>
 	   <p>{{ post.content | strip_html |  truncatewords:150}}</p><br>
             <a class="more-link" href="{{ post.url }}">Read more</a><br><br>
             <hr style="height:1px; border:none; color:#AAA; background-color:#000; width:40%; text-align:left; margin: 0 auto 0 0;">
