@@ -2,8 +2,25 @@
 layout: default
 title: Brent Woo, concert linguist
 ---
+
+<script type="text/javascript">
+var textarray = [
+ "hi",
+ "hello",
+ "how r u",
+ "where r u"    // No comma after last entry
+];
+
+function RndText() {
+  var rannum= Math.floor(Math.random()*textarray.length);
+  document.getElementById('ShowText').innerHTML=textarray[rannum];
+}
+onload = function() { RndText(); }
+
+</script>
+
 <div class="blurb">
-	<h1>Brent Woo, practicing syntactician</h1>
+	<h1>Brent Woo, <div id="ShowText"></div></h1>
 	<ul class="posts">
 	  {% for post in site.posts limit:3 %}
 	    <h2><span><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span></h2>
