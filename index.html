@@ -5,10 +5,10 @@ title: Brent Woo, concert linguist
 
 <script type="text/javascript">
 var textarray = [
- "hi",
- "hello",
- "how r u",
- "where r u"    // No comma after last entry
+ "Brent Woo, practicing syntactician",
+ "Brent Woo,\"the Tao Lin of linguistics\"",
+ "Брент Ву, лингвист",
+ "Brent Woo, concert scientist"    // No comma after last entry
 ];
 
 function RndText() {
@@ -20,7 +20,7 @@ onload = function() { RndText(); }
 </script>
 
 <div class="blurb">
-	<h1>Brent Woo, <div id="ShowText"></div></h1>
+	<h1><div id="ShowText"></div></h1>
 	<ul class="posts">
 	  {% for post in site.posts limit:3 %}
 	    <h2><span><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span></h2>
