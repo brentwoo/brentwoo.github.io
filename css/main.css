@@ -74,7 +74,7 @@ a:hover { color: #a03c21 }
 
 a[href$=".pdf"]{
   padding-right: 24px;
-  background-image: url({{ site.url }}/assets/pdf-icon.png);
+  background-image: url(/assets/pdf-icon.png);
   background-position: 100% 50%;
   background-repeat:no-repeat;
 }
