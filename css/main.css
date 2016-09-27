@@ -68,9 +68,17 @@ p { font-family: 'Inder', sans-serif; line-height: 28px; margin-bottom: 15px; co
 
 a { color: #ff4411; text-decoration: none; transition: .5s; -moz-transition: .5s; -webkit-transition: .5s; -o-transition: .5s; }
 
-
 a:hover { color: #a03c21 }
 
+a[href$=".pdf"]{
+    background-image: url({{ site.url }}/assets/pdf-icon.png);
+	background-position: center left;
+	background-repeat: no-repeat;
+	padding-left: 35px;
+	height: 35px;
+	display: inline-block;
+	padding-top: 10px;
+}
 
 .date { float: left }
 
