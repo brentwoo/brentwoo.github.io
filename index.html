@@ -25,7 +25,7 @@ onload = function() { RndText(); }
 	  {% for post in site.posts limit:3 %}
 	    <h2><span><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span></h2>
 	    <span>{{ post.date | date_to_string }}<span><br><br>
-	   <p>{{ post.content | strip_html |  truncatewords:150}}</p><br>
+	   <p>{{ post.content |  truncatewords:500}}</p><br>
             <a class="more-link" href="{{ post.url }}">Read more</a><br><br>
 <!--            <hr style="height:1px; border:none; color:#AAA; background-color:#AAA; width:40%; text-align:left; margin: 0 auto 0 0;">-->
             <br><br>
