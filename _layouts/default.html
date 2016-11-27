@@ -7,8 +7,24 @@
 			<link rel="image_src" href="{{ site.url }}/assets/square.jpg" />
 		</head>
 		<body>
+			<script type="text/javascript">
+var textarray = [
+ "Brent Woo, practicing syntactician",
+ "Brent Woo,\"the Tao Lin of linguistics\"",
+ "Brent Woo, лингвист",
+ "Brent Woo, concert scientist"    // No comma after last entry
+];
+
+function RndText() {
+  var rannum= Math.floor(Math.random()*textarray.length);
+  document.getElementById('ShowText').innerHTML=textarray[rannum];
+}
+onload = function() { RndText(); }
+
+</script>
+
 			<nav>
-	    		<ul>	<li>Brent Woo</li>
+	    		<ul>	<li><div id="ShowText"></div></li>
 	        		<li><a href="/">Home</a></li>
 		        	<li><a href="/about">About</a></li>  
 				<li><a href="/research">Research</a></li>
