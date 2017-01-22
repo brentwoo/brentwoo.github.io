@@ -9,10 +9,10 @@
 		<body>
 			<script type="text/javascript">
 var textarray = [
- "Brent Woo, practicing syntactician",
- "Brent Woo,\"the Tao Lin of linguistics\"",
- "Brent Woo, лингвист",
- "Brent Woo, concert scientist"    // No comma after last entry
+ ", practicing syntactician",
+ ",\"the Tao Lin of linguistics\"",
+ ", лингвист",
+ ", concert scientist"    // No comma after last entry
 ];
 
 function RndText() {
@@ -24,7 +24,7 @@ onload = function() { RndText(); }
 </script>
 
 			<nav>
-	    		<ul>	<li><div id="ShowText" height="18pt"></div></li>
+	    		<ul>	<li>Brent Woo<div id="ShowText"></div></li>
 	        		<li><a href="/">Home</a></li>
 		        	<li><a href="/about">About</a></li>  
 				<li><a href="/research">Research</a></li>
@@ -33,6 +33,7 @@ onload = function() { RndText(); }
 	        		<li><a href="/blog">Blog</a></li>
 	    		</ul>
 			</nav>
+			<hr style=" display: block;    border-width: 1px; color: #AAA">
 			<div class="container">
 			
 			{{ content }}
