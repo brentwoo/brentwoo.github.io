@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How do say 'yes' 1000 different ways"
+title: "How to say 'yes' 1000 different ways"
 date: 2017-02-15
 ---
 
