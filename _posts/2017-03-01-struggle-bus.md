@@ -26,7 +26,7 @@ Some more fun graphs. The first 5 volumes average 531.6 pages, but the last one 
 The campus library has the Norwegian editions, so you can see the behemoth here. 
 
 <center>
-<img src="{{ site.url }}/assets/knaus-books.png" style="width:500px; height:auto">
+<img src="{{ site.url }}/assets/knaus-books.JPG" style="width:500px; height:auto">
 </center>
 
 It'll be some time before I make it through that, I'm sure.
