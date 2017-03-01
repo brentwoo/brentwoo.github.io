@@ -5,7 +5,7 @@ date: 2017-03-01
 ---
 
 
-<img src="{{ site.url }}/assets/knaus-2.JPG" style="width:200px; height:auto; float:right">
+<img src="{{ site.url }}/assets/knaus-2.JPG" style="width:280px; height:auto; float:right">
 
 I'm seriously obsessed with Karl Ove Knausgaard's <i>My Struggle</i>, the monumental 6-volume autobiographical fiction that is took Norway by storm. I'm finishing up Volume 2, which mostly deals with his second and current marriage. Volume 1 is split between his teenage years and after his father's death. Volume 3 is supposedly a lot about poop in his childhood, I'm told by my reputable source. Anyways, it's full of angst and thoughts about getting to grips with masculinity, unimaginable writer's block, being socially awkward, and trying to raise a family with a bipolar wife. Great stuff. 
 
