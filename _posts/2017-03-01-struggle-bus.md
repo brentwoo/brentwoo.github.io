@@ -19,14 +19,14 @@ I just did a quick look at the number of Goodreads reviews and Amazon reviews ac
 
 But look -- it's interesting that the relative numbers of reviews are generally the same. I don't think there's an option to feed reviews on Amazon to Goodreads or vice versa (but there is for Goodreads to other social media like FB or Twitter), so that wouldn't explain the covariance.  I think the trend is basically as you would expect. Many people read the first one to see what it's all about, a relatively small subset of those move on, and then it trails off. But I'm bolstered to see that the downward slope Volumes 2-5 isn't that steep. I'm under the impression that those who move onto 2 intend to continue through 5. 6 however, is a bit of a task...
 
-Some more fun graphs. The first 5 volumes average 531.6 pages, but the last one is clearly a ridiculous outlier, clocking in at 1116 pages (in the Norwegian edition).
+Some more fun graphs. The first 5 volumes average 531.6 pages, but the last one is clearly a ridiculous outlier, clocking in at 1,119 pages (in the Norwegian edition). War and Peace (Oxford) is 1,392 pages; The Count of Monte Cristo (Penguin) is 1,276. As far as overal page counts: Knausgaard totals 3,777 pages. Proust is 4,215. Ferrante is 1,682 (331, 471, 400, 480).
 
 <center>
 <img src="{{ site.url }}/assets/knaus-pages.png" style="width:400px; height:auto">
 <img src="{{ site.url }}/assets/knaus-editions.png" style="width:400px; height:auto">
 </center>
 
-The campus library has the Norwegian editions, so you can see the behemoth here. 
+The campus library has the Norwegian editions, so you can see the behemoth (and when they changed dewey decimal stickers) here. Those impressive black hardcovers are Volumes 2-6.
 
 <center>
 <img src="{{ site.url }}/assets/knaus-books.JPG" style="width:500px; height:auto">
