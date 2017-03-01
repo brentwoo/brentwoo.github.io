@@ -10,6 +10,15 @@ I was interested in, how much readership changes over the course of the six volu
 
 I just did a quick look at the number of Goodreads reviews and Amazon reviews across the six volumes. Note, only Volumes 1-5 are out in English, and Volume 5 is only out in Hardcover right now. Goodreads seems to have much more, but that's because it collects reviews in all languages, so presumably there's some Norwegians in there inflating the numbers. I looked at Amazon.com, which serves the US only, so there's fewer results. And yes, I know that reviews doesn't equal number of readers, but I'm not sure I can ever get my hands on that real number.
 
-<img src="{{ site.url }}/assets/knaus-reviews.png" style="width:500pt">
+<center>
+<img src="{{ site.url }}/assets/knaus-reviews.png" style="width:500px; height:auto">
+</center>
 
 But look -- it's interesting that the relative numbers of reviews are generally the same. I don't think there's an option to feed reviews on Amazon to Goodreads or vice versa (but there is for Goodreads to other social media like FB or Twitter), so that wouldn't explain the covariance.  
+
+
+<center>
+<img src="{{ site.url }}/assets/knaus-pages.png" style="width:500px; height:auto">
+
+<img src="{{ site.url }}/assets/knaus-editions.png" style="width:500px; height:auto">
+</center>
