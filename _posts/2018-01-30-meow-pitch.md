@@ -26,8 +26,10 @@ This is the result. On the left is Kuma's original, unmanipulated sound, and on 
 
 <audio controls>
   <source src="{{ site.url }}/assets/kuma-pitch.mp3" type="audio/mpeg">
-  <source src="{{ site.url }}/assets/me-pitch.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="{{ site.url }}/assets/me-pitch.mp3" type="audio/mpeg">
 </audio>
 <center><img src="{{ site.url }}/assets/kuma-me-pitch.png" style="width:780px; height:auto"></center>
 
