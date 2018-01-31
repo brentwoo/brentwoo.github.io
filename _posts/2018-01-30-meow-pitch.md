@@ -8,7 +8,7 @@ I live with two cats with crazy different personalities. One called Lila, is stu
 
 Then I wondered, what do cute meows look like? Why is her meow so much cuter than when I do it? So let's pop it into Praat and see!
 
-Kuma came into my room and I recorded a little conversation. Here it is, and here is the associated spectrogram with pitch tracking.
+Kuma came into my room and I recorded a little conversation. Here it is, and here is the associated spectrogram with pitch tracking. The spectrogram, the shaded gray background, shows the different qualities of the sound, and is tough to interpret without some phonetics training (I sure don't know much about it). The line is the 'pitch', also called fundamental frequency or f0. It is the lowest, most prominent frequency of the sound, and what a listener would identify as the "musical note" were you to sing that pitch. Orchestras tune to A4 at 440 Hz, and there are a zillion other estimates and measures but in general male voices average at 110 Hz and female voices at 211 Hz. Cats, apparently, meow at 550 Hz.
 
 <audio controls>
   <source src="{{ site.url }}/assets/total-pitch.mp3" type="audio/mpeg">
@@ -33,7 +33,18 @@ Your browser does not support the audio element.
 
 Still looks way different (as expected)! Even though we're producing the same pitch contour, my sound is much "richer" (I'll just casually use that word, ignorant of its precise meaning in phonetics), and it's clear that Kuma's is much "purer". It must be that pure quality that lends Kuma's sound to being so much "cuter", not just the pitch.
 
-And for kicks, here's what Kuma looks and sounds like pitched-down.
+For kicks, here's the equivalent musical note, a C♯<sub>5</sub>, played out of tune on a crappy plastic recorder (my flute is off-limits for now, for mysterious reason...).
+
+
+<audio controls>
+  <source src="{{ site.url }}/assets/recorder-cis-pitch.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<center><img src="{{ site.url }}/assets/recorder-cis-pitch.png" style="width:350px; height:auto"></center>
+
+It also sounds AND looks distinct from both the cat and human sound. I lack the words to describe the visual and sonic differences.
+
+And for additional kicks, here's what Kuma looks and sounds like pitched-down.
 
 <audio controls>
   <source src="{{ site.url }}/assets/kuma-down.mp3" type="audio/mpeg">
