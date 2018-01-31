@@ -16,7 +16,7 @@ Your browser does not support the audio element.
 </audio>
 <center><img src="{{ site.url }}/assets/total-pitch.png" style="width:780px; height:auto"></center>
 
-I then took the second and third tokens, where Kuma calls and I'm responding by copying the sound. Already you see that Kuma has a much higher-pitched sound than me (average 559 Hz). (My average, non-excted reading pitch is 107 Hz) Turns out when I tried to mimic it, I still ended up producing a much lower-pitched sound (276 Hz) than intended. You can also see what I was interested in—how the spectral qualities differ. I don't really know how to interpret the spectrogram, but you see that for my voice there seems to be more "noise", more formants/harmonics? than for Kuma, whose voice seems to be "purer". I suppose that's what timbre is; the difference between a richer sax (me) and a more pure flute or piccolo (Kuma).
+I then took the second and third tokens, where Kuma calls and I'm responding by copying the sound. Already you see that Kuma has a much higher-pitched sound than me (average 559 Hz). (My average, non-excited reading pitch is 107 Hz) Turns out when I tried to mimic it, I still ended up producing a much lower-pitched sound (276 Hz) than intended. You can also see what I was interested in—how the spectral qualities differ. I don't really know how to interpret the spectrogram, but you see that for my voice there seems to be more "noise", more formants/harmonics? than for Kuma, whose voice seems to be "purer". I suppose that's what timbre is; the difference between a richer sax (me) and a more pure flute or piccolo (Kuma).
 
 SO. I wonder what would happened if we evened things out a little. What if I really did produce the same pitch as Kuma, what would it look like? Well for some reason I tried and Praat wasn't really able to make a good spectrogram of my sound (if you have any hints on why this is let me know). So I thought I'd try a little pitch manipulation. 
 
@@ -35,7 +35,7 @@ Your browser does not support the audio element.
 
 Still looks way different (as expected)! Even though we're producing the same pitch contour, my sound is much "richer" (I'll just casually use that word, ignorant of its precise meaning in phonetics), and it's clear that Kuma's is much "purer". It must be that pure quality that lends Kuma's sound to being so much "cuter", not just the pitch.
 
-For kicks, here's the equivalent musical note, a C♯<sub>5</sub>, played out of tune on a crappy plastic recorder (my flute is off-limits for now, for mysterious reason...).
+For kicks, here's the equivalent musical note, a C♯<sub>5</sub>, played out of tune on a crappy plastic recorder (my flute out of commission for now, or rather I am...).
 
 
 <audio controls>
