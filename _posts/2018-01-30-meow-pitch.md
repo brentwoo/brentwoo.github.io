@@ -4,6 +4,9 @@ title: "Visualizing Cute Meows"
 date: 2018-01-30
 ---
 
+
+	<img src="{{ site.url }}/assets/kuma.jpg" style="float:right; width:170px;   border-radius: 100%; ">
+
 I live with two cats with crazy different personalities. One called Lila, is stubborn and middle-aged, she's extremely cuddly and loves to sleep on beds next to you. The other called Kuma, is very young and playful, she doesn't cuddle too much but she comes out immediately if you start swinging a toy around. Kuma also has an incredibly cute meow, and just now meowed at me to come play.
 
 Then I wondered, what do cute meows look like? Why is her meow so much cuter than when I do it? So let's pop it into Praat and see!
