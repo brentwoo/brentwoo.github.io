@@ -1,0 +1,73 @@
+---
+layout: default
+title: Music
+---
+<div class="blurb">
+	<h1>Music</h1>
+	
+	<img src="{{ site.url }}/assets/harp-hero.jpg" style="width:100%">
+	
+<ul>
+	<li> Classically-trained pianist with 25 years of experience.
+		<ul>
+			<li> <b>Specialty</b>: Bach, Slavic Romantic 
+			<li> <b>Representative Repertoire</b>: Bach - Toccata in c minor BWV911, Chopin 25/12, Liszt Un Sospiro, Kapustin Preludes, Rachmaninoff Sonata No. 1
+			<li> MTAC CM Advanced Panel with Los Angeles regional Branch Honors (rep: Chopin 25/1, Bach Sinfonia 15, Beethoven Tempest sonata (I), Liszt Rigoletto-Paraphrase, Bartók Romanian Folk Dances)
+			<li> Weddings: Christian and secular 
+			<li> Seasonal pianist at Hotel Sorrento (Spring and Winter Holidays, since 2015)
+			<li> Big band keys (ECC Jazz Festival Best Rhythm Section 2007)
+			<li> Keys in orchestra pit for 2 musicals (Annie Got Your Gun; Little Shop of Horrors)
+			<li> Bach in the Subways Well-Tempered Clavier marathon (2016,2017)
+		</ul>
+	<li> Organ
+			<ul>			
+			<li> <b>Representative Repertoire</b>: Bach Prelude and Fugue in g minor BWV 542, Guilmant Sonata No. 1
+			<li> Received 2012 James Wagner Organ Scholarship at Eastern Michigan University
+			<li> Methodust church service preludes and hymns
+			<li>
+		</ul>
+	<li> Harp
+			<ul>
+			<li> Just starting out with lever harp but working up repertoire for weddings, music therapy, and Irish sessions
+			<li>
+		</ul>
+	<li> Flute
+			<ul>
+			<li> <b>Representative Repertoire</b>: Kohler Studies op. 33, Andersen Studies op. 41
+			<li> Somerville Irish Music band
+			<li> University of Washington Concert Band (2016–2018), Conducting Symposium accompanying band (2018)
+			<li>
+	</ul>
+		<li> Other instruments
+			<ul>
+			<li> Keys: keytar, melodica (busked in NYC MTA), accordion, xylophone/marimba/vibes (high school marching band 3-4 years),
+			<li> Chinese traditional: erhu, sheng
+	</ul>
+</ul>
+
+<h2 class="line"><span>Unwinding</span></h2>
+
+<table style="width:100%">
+	<tr>
+	<td align="left"><img src="{{ site.url }}/assets/organ.jpg" class="small-round"></td>
+	<td align="center"><img src="{{ site.url }}/assets/me-flute.JPG" class="small-round"></td>
+	<td align="right"><img src="{{ site.url }}/assets/bach-cafe.jpg" class="small-round"></td>
+	</tr>
+		<tr>
+	<td align="left"><img src="{{ site.url }}/assets/horp.jpg" class="small-round"></td>
+	<td align="right"><img src="{{ site.url }}/assets/melodica-mta-small.png" class="small-round"></td>
+				</tr>
+</table>
+
+	
+<h2 class="line"><span>Get disturbed</span></h2>
+
+	<p>Music and language. Two things humans excel at, two broad topics that engage me, thrill me, consume me. Something about the structure and rules, something about flouting the rules, something about expressing yourself, something about reaching the limits of humanity through sound and physical virtuosity. I practice and make music at least 2 hours every day. Not a day goes by when I don't feel the carnal urge to pick up an instrument and do something with it. When I visit new cities the first thing I do is go see their pipe organs.</p>
+	
+<p>Although I love to practice and perform, I don't naturally feel the instinct to compose, or create something "new", although I'm working on changing that. When I was in middle school, the district held an art competition called "Reflections", and alongside the visual arts categories, they surprisingly offered a musical composition category. I fired up my copy of Finale Notepad and scribbled some unplayable tunes out, and ended up winning the school's competition. Bolstered, I did it again in a later year, and not only won the school competition but made it to the district finals. I also don't feel the need to play in ensembles. I grew up with piano, which is fairly self-sufficient, and also doesn't easily fit into middle school concert bands. I know the joy of group performance, having been in  but it's not an essential part of my music experience.</p>
+
+<p>I was recently asked to name five "classical" (in quotes) pieces that I have listened to most in my life. And as a response I gave <b>Rach 2, Scriabin symphony 1, Rach cello sonata, Bach chaconne, Bach harpsichord concerto 1</b>. I would say that's probably still representative of my classical tastes, split 70-30 between the dramatic Slavic romantics and Bach.</p> 
+
+<p>I'm obsessed with long-drawn out tension and discord, especially built through repetition of not-necessarily discordant elements. When done right, you have a short, benign couple of measures that begins repeating so many times---perhaps with minor elaboration---where the listener is drawn into a state of increasing intensity without break. What I like to explore is how that repetition alone can push you into a meditative state, sometimes wistful and regretful, sometimes energetic and enthusiastic. Some of the best examples are Sigur Rós's Ára Bátur, Of Monsters and Men's Yellow Light, and elements of this are found throughout We Stood Like King's Berlin 1927 in the end of Death Cab for Cutie's Transatlanticism and White Rabbits's Kid on my Shoulders. Max Richter of course. It might be related to crescendocore, but the goal is not necessarily loudness or even increasing complexity. I also think it stands apart from classical minimalism, where there isn't generally an element of increase or elaboration, rather, enjoyment and tension is derived mathicly, from sheer numbers.</p>
+	
+<p>I'm also interested in exploiting the cultural expectations around each instrument. When you see a pipe organ, what kind of music do you expect to come out of it? Who is the typical player of a pipe organ? More people should be exposed to the heart-wrenching chorale preludes of Reger and Bach. More people should see the young Asian girls tearing up the pedals at organ competitions. When you see a harp, what kind of music do you expect to come out of it? It's a little frustrating, but at the same time, it can be a launchpad for interesting discussion and exploring why people have those expectations in the first place. One time when I was playing harp in the park, a dad and his son came up to me and the son excitedly wanted to pluck the harp strings. I was so glad to see the dad was extremely encouraging, and not afraid of his son playing such an instrument. We should explore what happens when you get dudes playing the harp. Can the harp play rock music? (Deborah Henson-Conant and Amy Turk emphatically say yes) Can it play jazz? (Alice Coltrane says yes) Can it play metal? (The Harp Twins and <a href="https://www.youtube.com/watch?time_continue=121&v=6f4LCfYE2kM">this guy</a> say yes)

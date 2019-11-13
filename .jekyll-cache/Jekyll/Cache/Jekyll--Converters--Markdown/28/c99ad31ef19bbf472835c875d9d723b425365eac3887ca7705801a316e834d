@@ -1,0 +1,10 @@
+I"d<p><a href="https://www.reddit.com/r/starbucks/comments/5f2igv/we_were_20_away_from_beating_our_biggest/">Somebody on Reddit posted</a> their store’s EOD report (probably not the best idea for them, but oh well) and the list of numbers was just begging to be plotted. So I did so.</p>
+
+<center>
+<img src="http://brianmaierjr.github.com/long-haul/assets/sbux1.png" style="width:80%; height:auto" />
+
+<img src="http://brianmaierjr.github.com/long-haul/assets/sbux2.png" style="width:80%; height:auto" />
+</center>
+
+<p>I learned how to make a <a href="https://www.ablebits.com/office-addins-blog/2016/05/27/excel-cumulative-sum-running-total/">running totals column in Excel</a>, and used a “Filled Radar” chart for the first time – I thought it showed the hourly fluctuations particularly well, since it’s an hourly report and the chart resembles a clock.</p>
+:ET

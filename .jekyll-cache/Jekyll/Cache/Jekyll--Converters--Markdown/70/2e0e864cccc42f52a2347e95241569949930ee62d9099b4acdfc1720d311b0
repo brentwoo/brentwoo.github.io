@@ -1,0 +1,139 @@
+I"�<div id="articles">
+  <h1>Articles</h1>
+  <ul class="posts noList">
+    
+      <li>
+      	<span class="date">30 Jan 2018</span>
+      	<h3><a href="/blog/meow-pitch/">Visualizing Cute Meows</a></h3>
+      	<p class="description">I live with two cats with crazy different personalities. One called Lila, is stubborn and middle-aged, she’s extremel...</p>
+      </li>
+    
+      <li>
+      	<span class="date">10 Dec 2017</span>
+      	<h3><a href="/blog/coordinators-subreddits/">Subreddits use Coordinators differently</a></h3>
+      	<p class="description">I was playing with the Reddit API, and specifically the Python wrapper (PRAW) which makes it straightforward to grab ...</p>
+      </li>
+    
+      <li>
+      	<span class="date">04 Aug 2017</span>
+      	<h3><a href="/blog/lsa-logo/">Official Logo for LSA 2018</a></h3>
+      	<p class="description">All done! Went through about 6 different versions to arrive at this simple and clean letter-based logo. No mountains ...</p>
+      </li>
+    
+      <li>
+      	<span class="date">10 Apr 2017</span>
+      	<h3><a href="/blog/malaphors-graph/">Mystery Malaphors graph</a></h3>
+      	<p class="description">I’m pretty proud of myself for getting this experiment together, and it actually showed some kind of result. What exa...</p>
+      </li>
+    
+      <li>
+      	<span class="date">31 Mar 2017</span>
+      	<h3><a href="/blog/travels-with-latex/">Travels with LaTeX in Search of America</a></h3>
+      	<p class="description">I’m reading Steinbeck’s Travels with Charley (in Search of America), which is this adorable tale of him driving cross...</p>
+      </li>
+    
+      <li>
+      	<span class="date">01 Mar 2017</span>
+      	<h3><a href="/blog/struggle-bus/">On the Struggle Bus with Karl Ove</a></h3>
+      	<p class="description">I’m seriously obsessed with Karl Ove Knausgaard’s My Struggle, the monumental 6-volume autobiographical fiction that ...</p>
+      </li>
+    
+      <li>
+      	<span class="date">15 Feb 2017</span>
+      	<h3><a href="/blog/how-to-say-yes/">How to say 'yes' 1000 different ways</a></h3>
+      	<p class="description">Every once in a while an AskReddit thread will come up that just reaps in so much linguistic gold - this one asks for...</p>
+      </li>
+    
+      <li>
+      	<span class="date">20 Jan 2017</span>
+      	<h3><a href="/blog/food-wa/">What the heck is a jojo?</a></h3>
+      	<p class="description">I asked the students in my introductory linguistics class to participate in a small naming survey. They were shown a ...</p>
+      </li>
+    
+      <li>
+      	<span class="date">26 Nov 2016</span>
+      	<h3><a href="/blog/sbux-revenue/">Plotting Starbucks Black Friday revenue</a></h3>
+      	<p class="description">Somebody on Reddit posted their store’s EOD report (probably not the best idea for them, but oh well) and the list of...</p>
+      </li>
+    
+      <li>
+      	<span class="date">21 Nov 2016</span>
+      	<h3><a href="/blog/finite-state-coffee/">Finite State Coffee</a></h3>
+      	<p class="description">I was talking with a student at office hours about Formal Languages, and the discussion dredged up all sorts of memor...</p>
+      </li>
+    
+      <li>
+      	<span class="date">18 Oct 2016</span>
+      	<h3><a href="/blog/data/">Data revolution</a></h3>
+      	<p class="description">I'm a convert...Continuing my latest bandwagoning on the data train, using a method I learned in class which has turn...</p>
+      </li>
+    
+      <li>
+      	<span class="date">25 Sep 2016</span>
+      	<h3><a href="/blog/mturk/">First foray into Mechanical Turk for Experimental Syntax</a></h3>
+      	<p class="description">Background prep workIn a mad rush of productivity, I spent my Saturday learning how to use Mechanical Turk to run a s...</p>
+      </li>
+    
+      <li>
+      	<span class="date">06 Sep 2016</span>
+      	<h3><a href="/blog/latex-ling/">LaTeX for linguistics... and science</a></h3>
+      	<p class="description">I ran across this Reddit post. Disregarding the main post content, I thought it was interesting how much of the discu...</p>
+      </li>
+    
+      <li>
+      	<span class="date">30 Aug 2016</span>
+      	<h3><a href="/blog/ethical-intro-ling/">Ethical intro ling course planning</a></h3>
+      	<p class="description">Right now I’m designing the syllabus and course schedule for a small introductory linguistics class at UW: LING 400 “...</p>
+      </li>
+    
+      <li>
+      	<span class="date">10 Aug 2016</span>
+      	<h3><a href="/blog/reviews/">5-star reviews</a></h3>
+      	<p class="description">Am I allowed to publish particularly glowing student reviews? Well, I’m going to do it anyways. I’ve always been pret...</p>
+      </li>
+    
+      <li>
+      	<span class="date">06 Aug 2016</span>
+      	<h3><a href="/blog/languages/">What languages do you speak?</a></h3>
+      	<p class="description">I wrote this post over 4 years ago, on 3 March 2012. Let’s revisit this:  How many languages do I speak?  Let me see…...</p>
+      </li>
+    
+      <li>
+      	<span class="date">15 Dec 2014</span>
+      	<h3><a href="/blog/example-post-formatting/">Example Post Formatting</a></h3>
+      	<p class="description">This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home...</p>
+      </li>
+    
+      <li>
+      	<span class="date">14 Dec 2014</span>
+      	<h3><a href="/blog/featured-image/">Featured Image</a></h3>
+      	<p class="description">Lorem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gil...</p>
+      </li>
+    
+      <li>
+      	<span class="date">13 Dec 2014</span>
+      	<h3><a href="/blog/code-snippet/">Post With A Code Snippet</a></h3>
+      	<p class="description">You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see y...</p>
+      </li>
+    
+      <li>
+      	<span class="date">12 Dec 2014</span>
+      	<h3><a href="/blog/figure-with-caption/">Figure With A Caption</a></h3>
+      	<p class="description">Lorem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gil...</p>
+      </li>
+    
+      <li>
+      	<span class="date">11 Dec 2014</span>
+      	<h3><a href="/blog/image-in-post/">Image in Post</a></h3>
+      	<p class="description">Lorem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gil...</p>
+      </li>
+    
+      <li>
+      	<span class="date">10 Dec 2014</span>
+      	<h3><a href="/blog/test-post/">Test Post</a></h3>
+      	<p class="description">Lorem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gil...</p>
+      </li>
+    
+  </ul>
+</div>
+:ET
