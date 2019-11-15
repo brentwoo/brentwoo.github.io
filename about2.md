@@ -2,23 +2,21 @@
 layout: default
 title: A little bit about Brent
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Brent!</h1>
-	
-	<img src="{{ site.url }}/assets/me-bike.jpg" style="float:right; width:350px;   border-radius: 100%; ">
+<div class="post">
+	<img src="{{ site.url }}/assets/img/me-bike.jpg" style="float:right; width:350px;   border-radius: 100%; ">
 	
 	<p>I am a Language Engineer at Amazon in Cambridge, MA. One of my missions is to bring the work of linguists more into public awareness. To that end, I once gave a TEDx talk on language technology. I'm also the only person who has worked at both the Linguist List and the Linguistic Society of America. I enjoy playing <a href="https://vimeo.com/75281007">incredibly loud keyboard instruments</a> and reading sad books.</p>
 		
-	<p>I have a PhD in Linguistics at UW in Seattle, where I worked on coordination in English.</p>
-	
-<ul>
-  <li> <a href="https://www.youtube.com/watch?v=mR2AkKs4tiI">My TEDx talk "Say a command..." on speech technology. 2013</a>
-	  <li> <a href="https://drive.google.com/open?id=1erhNSp5VHjdtJNBzFgYlarLhCfI&usp=sharing">Visitng Seattle? Check out my map of must-sees.</a>
-  <li> <a href="https://www.redbubble.com/people/jazzmoth/works/26171631-theyre-good-words-brent">Lauren Ackerman put a tweet of mine on a shirt</a>
-	  <li> Book cover: <a href="https://softcartel.com/press/">The Ghost of Mile 43 by Craig Rodgers</a>
-		  <li> Book cover: <a href="https://backpatiopress.bigcartel.com/product/photographs-of-madness-inside-out-pre-order">Photographs of Madness by Alec Ivan Fugate</a>
-</ul>
+	<p>I have a PhD in Linguistics at UW in Seattle, where I worked on coordination in English.</p>	
 
+<ul>
+  <li> <a href="https://www.youtube.com/watch?v=mR2AkKs4tiI">My TEDx talk "Say a command..." on speech technology. 2013</a></li>
+	  <li> <a href="https://drive.google.com/open?id=1erhNSp5VHjdtJNBzFgYlarLhCfI&usp=sharing">Visitng Seattle? Check out my map of must-sees.</a></li>
+
+  <li> <a href="https://www.redbubble.com/people/jazzmoth/works/26171631-theyre-good-words-brent">Lauren Ackerman put a tweet of mine on a shirt</a></li>
+	  <li> Book cover: <a href="https://softcartel.com/press/">The Ghost of Mile 43 by Craig Rodgers</a></li>
+		  <li> Book cover: <a href="https://backpatiopress.bigcartel.com/product/photographs-of-madness-inside-out-pre-order">Photographs of Madness by Alec Ivan Fugate</a></li>
+</ul>
 
 <h2 class="line"><span>Graphics</span></h2>
 
@@ -26,9 +24,9 @@ I've made the logos for the LSA Annual Meeting for the past several years, and c
 
 <table style="width:100%">
 	<tr>
-	<td align="left"><img src="{{ site.url }}/assets/lsa2018-show.png" class="small-round"></td>
-	<td align="center"><img src="{{ site.url }}/assets/lsa-austin.jpg" class="small-round"></td>
-	<td align="right"><img src="{{ site.url }}/assets/lsa-portland.jpg" class="small-round"></td>
+	<td align="left"><img src="{{ site.url }}/assets/img/lsa2018-show.png" class="small-round"></td>
+	<td align="center"><img src="{{ site.url }}/assets/img/lsa-austin.jpg" class="small-round"></td>
+	<td align="right"><img src="{{ site.url }}/assets/img/lsa-portland.jpg" class="small-round"></td>
 	</tr>
 </table>
 

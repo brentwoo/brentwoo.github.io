@@ -5,7 +5,7 @@ date: 2017-03-31
 ---
 
 <center>
-<img src="{{ site.url }}/assets/visit-map.png" style="width:600px; height:auto"></center>
+<img src="{{ site.url }}/assets/img/visit-map.png" style="width:600px; height:auto"></center>
 
 I'm reading Steinbeck's <i>Travels with Charley (in Search of America)</i>, which is this adorable tale of him driving cross-country with his French Poodle, Charley. He makes all sorts of pithy remarks on the people and places he visits. 
 

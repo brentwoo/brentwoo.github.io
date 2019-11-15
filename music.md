@@ -2,46 +2,43 @@
 layout: default
 title: Music
 ---
-<div class="blurb">
+<div class="post">
 	<h1>Music</h1>
 	
-	<img src="{{ site.url }}/assets/harp-hero.jpg" style="width:100%">
+	<img src="{{ site.url }}/assets/img/harp-hero.jpg" style="width:100%">
 	
 <ul>
-	<li> Classically-trained pianist with 25 years of experience.
+	<li> Classically-trained pianist with 25 years of experience.</li>
 		<ul>
-			<li> <b>Specialty</b>: Bach, Slavic Romantic 
-			<li> <b>Representative Repertoire</b>: Bach - Toccata in c minor BWV911, Chopin 25/12, Liszt Un Sospiro, Kapustin Preludes, Rachmaninoff Sonata No. 1
-			<li> MTAC CM Advanced Panel with Los Angeles regional Branch Honors (rep: Chopin 25/1, Bach Sinfonia 15, Beethoven Tempest sonata (I), Liszt Rigoletto-Paraphrase, Bartók Romanian Folk Dances)
-			<li> Weddings: Christian and secular 
-			<li> Seasonal pianist at Hotel Sorrento (Spring and Winter Holidays, since 2015)
-			<li> Big band keys (ECC Jazz Festival Best Rhythm Section 2007)
-			<li> Keys in orchestra pit for 2 musicals (Annie Got Your Gun; Little Shop of Horrors)
-			<li> Bach in the Subways Well-Tempered Clavier marathon (2016,2017)
+			<li> <b>Specialty</b>: Bach, Slavic Romantic </li>
+			<li> <b>Representative Repertoire</b>: Bach - Toccata in c minor BWV911, Chopin 25/12, Liszt Un Sospiro, Kapustin Preludes, Rachmaninoff Sonata No. 1</li>
+			<li> MTAC CM Advanced Panel with Los Angeles regional Branch Honors (rep: Chopin 25/1, Bach Sinfonia 15, Beethoven Tempest sonata (I), Liszt Rigoletto-Paraphrase, Bartók Romanian Folk Dances)</li>
+			<li> Weddings: Christian and secular </li>
+			<li> Seasonal pianist at Hotel Sorrento (Spring and Winter Holidays, since 2015)</li>
+			<li> Big band keys (ECC Jazz Festival Best Rhythm Section 2007)</li>
+			<li> Keys in orchestra pit for 2 musicals (Annie Got Your Gun; Little Shop of Horrors)</li>
+			<li> Bach in the Subways Well-Tempered Clavier marathon (2016,2017)</li>
 		</ul>
-	<li> Organ
+	<li> Organ</li>
 			<ul>			
-			<li> <b>Representative Repertoire</b>: Bach Prelude and Fugue in g minor BWV 542, Guilmant Sonata No. 1
-			<li> Received 2012 James Wagner Organ Scholarship at Eastern Michigan University
-			<li> Methodust church service preludes and hymns
-			<li>
+			<li> <b>Representative Repertoire</b>: Bach Prelude and Fugue in g minor BWV 542, Guilmant Sonata No. 1</li>
+			<li> Received 2012 James Wagner Organ Scholarship at Eastern Michigan University</li>
+			<li> Methodust church service preludes and hymns</li>
 		</ul>
-	<li> Harp
+	<li> Harp</li>
 			<ul>
-			<li> Just starting out with lever harp but working up repertoire for weddings, music therapy, and Irish sessions
-			<li>
+			<li> Just starting out with lever harp but working up repertoire for weddings, music therapy, and Irish sessions</li>
 		</ul>
-	<li> Flute
+	<li> Flute</li>
 			<ul>
-			<li> <b>Representative Repertoire</b>: Kohler Studies op. 33, Andersen Studies op. 41
-			<li> Somerville Irish Music band
-			<li> University of Washington Concert Band (2016–2018), Conducting Symposium accompanying band (2018)
-			<li>
+			<li> <b>Representative Repertoire</b>: Kohler Studies op. 33, Andersen Studies op. 41</li>
+			<li> Somerville Irish Music band</li>
+			<li> University of Washington Concert Band (2016–2018), Conducting Symposium accompanying band (2018)</li>
 	</ul>
-		<li> Other instruments
+		<li> Other instruments</li>
 			<ul>
-			<li> Keys: keytar, melodica (busked in NYC MTA), accordion, xylophone/marimba/vibes (high school marching band 3-4 years),
-			<li> Chinese traditional: erhu, sheng
+			<li> Keys: keytar, melodica (busked in NYC MTA), accordion, xylophone/marimba/vibes (high school marching band 3-4 years),</li>
+			<li> Chinese traditional: erhu, sheng</li>
 	</ul>
 </ul>
 
@@ -49,13 +46,13 @@ title: Music
 
 <table style="width:100%">
 	<tr>
-	<td align="left"><img src="{{ site.url }}/assets/organ.jpg" class="small-round"></td>
-	<td align="center"><img src="{{ site.url }}/assets/me-flute.JPG" class="small-round"></td>
-	<td align="right"><img src="{{ site.url }}/assets/bach-cafe.jpg" class="small-round"></td>
+	<td align="left"><img src="{{ site.url }}/assets/img/organ.jpg" class="small-round"></td>
+	<td align="center"><img src="{{ site.url }}/assets/img/me-flute.JPG" class="small-round"></td>
+	<td align="right"><img src="{{ site.url }}/assets/img/bach-cafe.jpg" class="small-round"></td>
 	</tr>
 		<tr>
-	<td align="left"><img src="{{ site.url }}/assets/horp.jpg" class="small-round"></td>
-	<td align="right"><img src="{{ site.url }}/assets/melodica-mta-small.png" class="small-round"></td>
+	<td align="left"><img src="{{ site.url }}/assets/img/horp.jpg" class="small-round"></td>
+	<td align="right"><img src="{{ site.url }}/assets/img/melodica-mta-small.png" class="small-round"></td>
 				</tr>
 </table>
 

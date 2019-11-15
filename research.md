@@ -2,7 +2,7 @@
 layout: default
 title: Brent Woo, research
 ---
-<div class="blurb">
+<div class="post">
 	<h1>Research</h1>
 	
 	<p>I practice syntax, currently focusing on coordination and related topics like Right Node Raising and idioms. I have a growing interest in experimental syntax, esp. judgments and transposition. I also enjoy building computational grammars in HPSG/LFG; so far I've worked on Rusyn and Burmese. I'm most interested in Uralic and Slavic languages, having studied Russian for several years and, newly, Finnish. </p>
@@ -15,103 +15,96 @@ title: Brent Woo, research
 	
 	<p><b>Research interests:</b> Syntax (coordination, coordinate ellipsis phenomena), idioms, Slavic languages, experimental methods.</p>
 	
-	<h2 class="line"><span>Papers</span></h2>
-	<ul>
-		<li>2019. PhD Dissertation: "&0: The syntax and semantics of 'Slash' and 'And/or'"
+	<h2>Papers</h2>
+<ul>
+		<li>2019. PhD Dissertation: "&0: The syntax and semantics of 'Slash' and 'And/or'"</li>
 		<li>2017. <a href="https://www.cambridge.org/core/journals/english-language-and-linguistics/article/innovation-in-functional-categories-slash-a-new-coordinator-in-english-1/5948815B1B71F88F0BB60F24810AE659">Innovation in functional categories: Slash, a new coordinator in English</a>. <i>English Language and Linguistics</i>. Cambridge.</li>
 		<li>2017. <a href="http://www.lsuga.com/conference-proceedings/volume-2-2016">Effable <i>Slash</i>: an emerging intersective coordinator in English and its behavior slash properties</a>. In Mike Olsen (ed) <i>Proceedings of the Third Linguistics Conference at University of Georgia</i> 2: 1--14.</li>
 		<li>2017. The union of conjunction and disjunction: the case of and/or. In Patrick Farrell (ed) <i>Proceedings of the Linguistic Society of America</i> 2, 37:1--9. <a href="https://doi.org/10.3765/plsa.v2i0.4093">https://doi.org/10.3765/plsa.v2i0.4093</a></li>
                 <li>(ms) Breaking idioms with right node raising</li>
-		<li>2011. <a href="{{ site.url }}/assets/research/bwoo-rachmaninoff.pdf">Letters from Sergei Rachmaninoff: Substantiating a Context for His Depression in 1897-1900</a>. In Roman Koropeckyj ed. <i>The UC Undergraduate Journal of Slavic and East/Central European Studies</i> 3. UCLA.
-	</ul>
+		<li>2011. <a href="{{ site.url }}/assets/img/research/bwoo-rachmaninoff.pdf">Letters from Sergei Rachmaninoff: Substantiating a Context for His Depression in 1897-1900</a>. In Roman Koropeckyj ed. <i>The UC Undergraduate Journal of Slavic and East/Central European Studies</i> 3. UCLA.</li>
+</ul>
 	
 	
 	<h2 class="line"><span>Conference activity</span></h2>
 	<center>Items (in parens) are accepted but have not occurred yet.</center>
-	<ul>
-	<img src="{{ site.url }}/assets/poster-uralic-small.png" style="float:right;width:180px;height:auto;"> 
+<ul>	
+	<img src="{{ site.url }}/assets/img/poster-uralic-small.png" style="float:right;width:180px;height:auto;"> 
 		<li>2018. Emily Atkinson, Ian Rigby, Naomi Shapiro, ___, and Akira Omaki. Syntactic adaptation effects do not transfer across tasks.<br>
-			<i>CUNY 2018. UC Davis.</i>
+			<i>CUNY 2018. UC Davis.</i></li>
 		<li>2018. Kirby Conrod and ___. Hydras: Split Heads and Light Heads.<br>
-			<i>LSA 92, Salt Lake City, Utah (LSA 2018)</i> [<a href="{{ site.url }}/assets/research/conrod-woo-lsa2018_poster.pdf">Poster</a>]</li>
+			<i>LSA 92, Salt Lake City, Utah (LSA 2018)</i> [<a href="{{ site.url }}/assets/img/research/conrod-woo-lsa2018_poster.pdf">Poster</a>]</li>
 		<li>2018. Linguistics beyond bars: Giving lectures on linguistics to prisoners, in Organized Session on Collaboration in Linguistics<br>
-			<i>LSA 92, Salt Lake City, Utah (LSA 2018)</i> [<a href="{{ site.url }}/assets/research/bwoo-bars-deck.pdf">Talk</a> and <a href="{{ site.url }}/assets/research/bwoo-bars-poster.pdf">Poster</a>]</li>
-		<li>2017. We'll burn that bridge when we get to it: thematic coherence in identifying idiom blends. <br><i>UC Davis Symposium on Language Research 2017.</i> [<a href="{{ site.url }}/assets/research/bwoo-burn.pdf">Slides</a>]<br>
-		<li>2017. Coordinating conjunctions in Uralic. <br> <i>Northwest Linguistics Conference 33. (NWLC 33). University of British Columbia</i> [<a href="{{ site.url }}/assets/research/bwoo-uralic-coord.pdf">Poster</a>, 7MB] <br>
-		<li>2017. The union of conjunction and disjunction: the case of and/or. <Br> <I>Linguistic Society of America 91st Annual Meeting, Austin, Texas. (LSA)</I> [<a href="{{ site.url }}/assets/research/bwoo-andor.pdf">poster</a>]
-	<img src="{{ site.url }}/assets/poster-andor-small.png" style="float:right;width:180px;height:auto;"> 
+			<i>LSA 92, Salt Lake City, Utah (LSA 2018)</i> [<a href="{{ site.url }}/assets/img/research/bwoo-bars-deck.pdf">Talk</a> and <a href="{{ site.url }}/assets/img/research/bwoo-bars-poster.pdf">Poster</a>]</li>
+		<li>2017. We'll burn that bridge when we get to it: thematic coherence in identifying idiom blends. <br><i>UC Davis Symposium on Language Research 2017.</i> [<a href="{{ site.url }}/assets/img/research/bwoo-burn.pdf">Slides</a>]<br></li>
+		<li>2017. Coordinating conjunctions in Uralic. <br> <i>Northwest Linguistics Conference 33. (NWLC 33). University of British Columbia</i> [<a href="{{ site.url }}/assets/img/research/bwoo-uralic-coord.pdf">Poster</a>, 7MB] <br></li>
+		<li>2017. The union of conjunction and disjunction: the case of and/or. <Br> <I>Linguistic Society of America 91st Annual Meeting, Austin, Texas. (LSA)</I> [<a href="{{ site.url }}/assets/img/research/bwoo-andor.pdf">poster</a>]</li>
+	<img src="{{ site.url }}/assets/img/poster-andor-small.png" style="float:right;width:180px;height:auto;"> 
 		<li>2016. Slash: A new coordinator in English and its behavior slash structure. <br> <i>Linguistics Conference at UGA 3: The Lexicon (LCUGA 3).</i> [Best Student Abstract award, UGA Travel award] <br>
-			[<a href="{{ site.url }}/assets/research/woo-slash-deck.pdf">Slides</a>, <a href="{{ site.url }}/assets/research/Woo-slash.pdf">handout</a>]</li>
-		<li>2015. Breaking idioms with right node raising.<br> <i>Brussels Conference on Generative Linguistics 8: The Grammar of Idioms (BCGL 8).</i> [<a href="{{ site.url }}/assets/research/Woo-RNR-idioms.pdf">Handout</a>]</li>
+			[<a href="{{ site.url }}/assets/img/research/woo-slash-deck.pdf">Slides</a>, <a href="{{ site.url }}/assets/img/research/Woo-slash.pdf">handout</a>]</li>
+		<li>2015. Breaking idioms with right node raising.<br> <i>Brussels Conference on Generative Linguistics 8: The Grammar of Idioms (BCGL 8).</i> [<a href="{{ site.url }}/assets/img/research/Woo-RNR-idioms.pdf">Handout</a>]</li>
 		<li>2013. Zero Copula in Russian. <br> <i>Eastern Michigan University Graduate Research Fair 2013</i>. [EMU Distinguished Graduate Student in Linguistics].</li>
 		<li>2012. Cyrillic Graphization of Dungan. <br> <i>Eastern Michigan University Graduate Research Fair 2012.</i></li>
 		<li>2012. LL-MAP: Three interns' journey with language and technology. [poster] <br> <i>Linguistic Society of America 86th Annual Meeting, Portland OR (LSA 86)</i></li>
-	</ul>
+</ul>	
 	
 	
 <h2 class="line"><span>Projects</span></h2>
 
 <ul>
-  <li> <a href="https://github.com/brentwoo/lkb-burmese">Burmese HPSG: Burmese HPSG grammar using LKB+Grammar Matrix</a> (most developed project)
-  <li> <a href="https://github.com/brentwoo/rusyn-hpsg">Rusyn HPSG: Rusyn HPSG grammar using LKB+Grammar Matrix</a>
-  <li> <a href="https://github.com/brentwoo/xle-croatian">Croatian LFG: Croatian LFG grammar using XLE</a>
+  <li> <a href="https://github.com/brentwoo/lkb-burmese">Burmese HPSG: Burmese HPSG grammar using LKB+Grammar Matrix</a> (most developed project)</li>
+  <li> <a href="https://github.com/brentwoo/rusyn-hpsg">Rusyn HPSG: Rusyn HPSG grammar using LKB+Grammar Matrix</a></li>
+  <li> <a href="https://github.com/brentwoo/xle-croatian">Croatian LFG: Croatian LFG grammar using XLE</a></li>
 </ul>
 
 <h2 class="line"><span>Tutorials</span></h2>
 
 <ul>
-	<li> <a href="https://docs.google.com/presentation/d/1k5jypQXQ2_VmsFRyyCd5RdzxmYtQpAlAKYvDrx0K0Q4/edit?usp=sharing">Mechanical Turk recruiting for linguistic experiments</a> (UW SynTable, 11/17/17)
+	<li> <a href="https://docs.google.com/presentation/d/1k5jypQXQ2_VmsFRyyCd5RdzxmYtQpAlAKYvDrx0K0Q4/edit?usp=sharing">Mechanical Turk recruiting for linguistic experiments</a> (UW SynTable, 11/17/17)</li>
 <!--  <li> <a href="https://docs.google.com/presentation/d/1adR2KF9zD4EeMr__7hpkKiLngN7bCM85uOFC59e_6YU/edit?usp=sharing">Mechanical Turk recruiting for linguistic experiments</a> (UW PhonLab, 10/14/16) -->
-	<ul>
-		<li> Potentially useful sites: <a href="http://www.junglelightspeed.com/amt_language/">What languages do MT Workers speak?</a>, <a href="http://www.josephjaywilliams.com/mturk">JJW Site</a>
-		</uL>
-  <li> <a href="{{ site.url }}/assets/bwoo-hpsg.pdf">The shortest possible introduction to HPSG (DRAFT)</a>
-  <li> <a href="https://github.com/brentwoo/xfst">Intro to XFST : morphology using Finite State Automata</a>
-  <li> <a href="https://github.com/brentwoo/festival_proj">Intro to Festival Speech Synthesis (aka, make your computer talk)</a>
+	
+		<li> Potentially useful sites: <a href="http://www.junglelightspeed.com/amt_language/">What languages do MT Workers speak?</a>, <a href="http://www.josephjaywilliams.com/mturk">JJW Site</a></li>
+  <li> <a href="{{ site.url }}/assets/img/bwoo-hpsg.pdf">The shortest possible introduction to HPSG (DRAFT)</a></li>
+  <li> <a href="https://github.com/brentwoo/xfst">Intro to XFST : morphology using Finite State Automata</a></li>
+  <li> <a href="https://github.com/brentwoo/festival_proj">Intro to Festival Speech Synthesis (aka, make your computer talk)</a></li>
 </ul>
 
 
-	<img src="{{ site.url }}/assets/tedx.jpg" style="float:right; width:350px;   border-radius: 100%; ">
+	<img src="{{ site.url }}/assets/img/tedx.jpg" style="float:right; width:350px;   border-radius: 100%; ">
 			
 	
 	<h2 class="line"><span>Teaching experience</span></h2>
 	<p>Sample syllabi are available as the links after course titles.</p>
-	<ul>
-		<li>LING 462 : Syntax II : Advanced Undergraduate X-bar syntax (Instructor: Spr18, <a href="{{ site.url }}/assets/teaching/bwoo-UWsyntax-syll.pdf">Sum16</a>, Sum15)</li>
+<ul>	
+		<li>LING 462 : Syntax II : Advanced Undergraduate X-bar syntax (Instructor: Spr18, <a href="{{ site.url }}/assets/img/teaching/bwoo-UWsyntax-syll.pdf">Sum16</a>, Sum15)</li>
 		<li>LING 461 : Syntax I : Intro Undergraduate X-bar syntax (Instructor: Sum17)</li>
-		<li>LING 400 : Survey of Linguistic Method and Theory (Instructor: <a href="{{ site.url }}/assets/teaching/bwoo-UWLING400-syllabus.pdf">Aut16</a>)</li>
+		<li>LING 400 : Survey of Linguistic Method and Theory (Instructor: <a href="{{ site.url }}/assets/img/teaching/bwoo-UWLING400-syllabus.pdf">Aut16</a>)</li>
 		<li>LING 233 : Introduction to Language and Society (TA: Spr16)</li>
 		<li>LING 200 : Introduction to Linguistic Thought (TA: Aut17, Spr17, Win17)</li>
 		<li>LING 100 : Fundamentals of Grammar (TA: Win18, Au15, Win16)</li>
 		<li>Grader: LING 461 Syntax I, LING462 Syntax II</li>
-	</ul>
+</ul>	
 	
 	
 <h2 class="line"><span>Documents on pedagogy</span></h2>	
 
-	<ul>
-		<li> <a href="{{ site.url }}/assets/2016-UWTA-cheating.pdf">Handling Cheating and Plagiarism</a>. (2016 Sep)
-	</ul>
+<ul>	
+		<li> <a href="{{ site.url }}/assets/img/2016-UWTA-cheating.pdf">Handling Cheating and Plagiarism</a>. (2016 Sep)</li>
+</ul>	
 	
 	<h2 class="line"><span>Public activities</span></h2>
 	<p>A selection of recent activities bringing linguistics to the public.</p>
-	<ul>
+<ul>	
 		<li>2016. September-August. "Languages of the World". University Beyond Bars-sponsored Public Lecture series to inmates at a prison in Northwest Washington State, Medium and Minimum Security Units.</li>
-		<li>2016. May. "Seeing the hidden structure of Language". Paws on Science: Husky Weekend. Booth with activities for schoolchildren to discover linguistics through iPad apps (live spectrogram) and felt syntactic trees. Seattle, WA.
-		<li>2014. "If you teach a robot to talk". Scholar's Studio. Lightning talks from graduate students across the university to share research. Seattle, WA.
-		<li>2013. "Say a Command". TEDx talk at Eastern Michigan University on the problems of human-computer language interaction. Ypsilanti, MI.
-	</ul>
+		<li>2016. May. "Seeing the hidden structure of Language". Paws on Science: Husky Weekend. Booth with activities for schoolchildren to discover linguistics through iPad apps (live spectrogram) and felt syntactic trees. Seattle, WA.</li>
+		<li>2014. "If you teach a robot to talk". Scholar's Studio. Lightning talks from graduate students across the university to share research. Seattle, WA.</li>
+		<li>2013. "Say a Command". TEDx talk at Eastern Michigan University on the problems of human-computer language interaction. Ypsilanti, MI.</li>
+</ul>	
 	
-	<h2 class="line"><span>Media Coverage</span></h2>
-	<ul>
-		<li>
-<a href="https://jsis.washington.edu/canada/outreach/focus.shtml#mallonlingcoll"> UW Canadian Studies Newsletter - Report about Linguistics Colloquium of Inuktitut scholar</a>
-<li><a href="http://www.washington.edu/trends/bringing-the-real-world-of-language-to-the-classroom/">"Experience using Canvas classroom software as a TA for LING 233". UW Provost November Report.</a>
-	<li><a href="http://blog.linguistlist.org/ll-main/tedxemu-presentation-by-brent-woo/">"TEDxEMU Presentation by Linguist List editor Brent Woo". LINGUIST List Blog</a>
-	</ul>
-	
+<h2 class="line"><span>Media Coverage</span></h2>
+<ul>	
+	<li> <a href="https://jsis.washington.edu/canada/outreach/focus.shtml#mallonlingcoll"> UW Canadian Studies Newsletter - Report about Linguistics Colloquium of Inuktitut scholar</a></li>
+		<li><a href="http://www.washington.edu/trends/bringing-the-real-world-of-language-to-the-classroom/">"Experience using Canvas classroom software as a TA for LING 233". UW Provost November Report.</a></li>
+		<li><a href="http://blog.linguistlist.org/ll-main/tedxemu-presentation-by-brent-woo/">"TEDxEMU Presentation by Linguist List editor Brent Woo". LINGUIST List Blog</a></li>
+</ul>	
 </div>			
-			
-			
-			
-</div>

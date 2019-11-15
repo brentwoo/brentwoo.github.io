@@ -8,7 +8,7 @@ I was playing with the Reddit API, and specifically the <a href="https://praw.re
 
 For each subreddit, I got the titles from a random 1000 "hot" posts in the subreddit's history. "Hot" posts are dynamic and updated constantly. How "hot" a post is a combination of high upvotes, and a lot of current activity. (Other categories of posts are "top" and "new", self-explanatory, and "controversial", which is also a post with current activity, but an even split of up- and down-votes.) I figure "hot" posts mean the subreddit generally agrees with the content or ideology of the sub, and "hot" also means that I'm getting a snapshot of current and fresh content. For those 1000 titles, I just counted the instances of "and" "but" "or" and "and/or". This is what I got.
 
-<center><img src="{{ site.url }}/assets/subreddit-coords-line.png" style="width:780px; height:auto"></center>
+<center><img src="{{ site.url }}/assets/img/subreddit-coords-line.png" style="width:780px; height:auto"></center>
 
 Right off the bat you see that for the most part, every sub follows the same pattern of use. "And" is the most common coordinator", followed by "but" and "or", which occur at usually 1/4 the rate of "and". All the titles were in English, though that is not the case across Reddit. Even though these subs have very different content and the nature of their titles varies, this overall pattern persists. There is not much research on corpus frequency of coordinators and whether or not it's tied to any variable. I was only able to find a few works that discuss the sociolinguistics of coordinators, for example Mary Shapiro's 1997 dissertation, which discusses the issue briefly and I think one finding was that increased use of "and" is correlated with increased perception of formality. 
 
@@ -18,7 +18,7 @@ Besides those extremely coarse and assumed pseudo-sociolinguistic variables, the
 
 The clustered bar graph allows you to compare more easily the relative proportions of coordinators for each subreddit.
 
-<center><img src="{{ site.url }}/assets/subreddit-coords-bars.png" style="width:780px; height:auto"></center>
+<center><img src="{{ site.url }}/assets/img/subreddit-coords-bars.png" style="width:780px; height:auto"></center>
 
 Some new observations emerge. It is easier to see that most subreddits follow the pattern. In order of frequency are AND > BUT > OR > AND/OR. Green > blue > yellow > Dark green. Except for AskReddit, Science, and AskHistorians (and marginally TwoXChromosomes, and politics). The three clear cases are all fairly brainy subs, the two "Ask-" Reddits are question-oriented, showing an increased preference for disjunction. Setting these three aside: for most of the subreddits, BUT and OR appear about the same number of times. Except for VXJunkies, SeventhworldProblems, and Fifthworldproblems, where it seems like BUT is used way out of proportion, many more times than OR. I suppose this is one aspect where users succeed in using surreal or irregular English, in that they use too many BUTs.
 
