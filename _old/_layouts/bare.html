@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="image_src" href="{{ site.url }}/assets/square.jpg" />
+		</head>
+		<body>
+			<nav>
+				<ul>	<li>Brent Woo</li>
+	        		<li><a href="/">← Back to Home</a></li>
+	    		</ul>
+			</nav>
+			<hr style=" display: block;    border-width: 1px; color: #AAA">
+
+			
+			
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:bwoo@uw.edu">email</a></li>
+	        		<li><a href="https://github.com/brentwoo">github.com/brentwoo</a></li>
+<!--	        		<li><a href="http://jmcglone.com/guides/github-pages/">Thanks for layout!</a></li> --> 
+				</ul>
+			</footer>
+		</body>
+	</html>

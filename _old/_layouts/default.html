@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="image_src" href="{{ site.url }}/assets/square.jpg" />
+		</head>
+		<body>
+			<script type="text/javascript">
+var textarray = [
+ ", practicing syntactician",
+ ", \"the Tao Lin of linguistics\"",
+ ", лингвист",
+ ", concert scientist"    // No comma after last entry
+];
+
+function RndText() {
+  var rannum= Math.floor(Math.random()*textarray.length);
+  document.getElementById('ShowText').innerHTML=textarray[rannum];
+}
+onload = function() { RndText(); }
+
+</script>
+			<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="/js/infinite-jekyll.js"></script>
+
+
+			<nav>
+				<ul>	<li><span style="display: inline-block; width: 300px;">Brent Woo<span id="ShowText"></span> <br> <span style="color:#777">opus.woo at gmail.com</span></span></li>
+	        		<li><a href="/">Home</a></li>
+ 		        	<!-- <li><a href="/about">About</a></li>   -->
+		        	<li><a href="/music">Music</a></li>  	
+                                <li><a href="/crafts">Crafts</a></li>
+				<li><a href="/research">Language</a></li>
+				<!-- <li><a href="/teaching">Teaching</a></li>
+	        		<li><a href="/public-scholar">Public Scholarship</a></li> 
+	        		<li><a href="/blog">Blog</a></li>--!>
+	    		</ul>
+			</nav>
+			<hr style=" display: block;    border-width: 1px; color: #AAA">
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:opus.woo@gmail.com">email</a></li>
+	        		<li><a href="https://github.com/brentwoo">github.com/brentwoo</a></li>
+<!--	        		<li><a href="http://jmcglone.com/guides/github-pages/">Thanks for layout!</a></li> --> 
+				</ul>
+			</footer>
+		</body>
+	</html>
